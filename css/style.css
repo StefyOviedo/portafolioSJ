@@ -1304,6 +1304,15 @@ ol {
 	-o-transition: all 0.4s ease-out 0s;
 	transition: all 0.4s ease-out 0s;
 }
+.solid-service-box2 {
+	text-align: center;
+	background: #fff;
+	padding: 50px 30px;
+	border-style: solid;
+	-webkit-transition: all 0.4s ease-out 0s;
+	-o-transition: all 0.4s ease-out 0s;
+	transition: all 0.4s ease-out 0s;
+}
 
 .solid-service-box h2 {
 	font-size: 48px;
