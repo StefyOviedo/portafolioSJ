@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Mezcla_data" version="1.3.0" audacityversion="2.0.6" sel0="134.7765586969" sel1="134.7765586969" vpos="0" h="0.0000000000" zoom="3.8062998860" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milisegundos">
+	<tags>
+		<tag name="Encoding time" value="2015-02-26 10:46:55"/>
+		<tag name="major_brand" value="dash"/>
+		<tag name="minor_version" value="0"/>
+		<tag name="Software" value="Lavf54.20.4"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+	</tags>
+	<wavetrack name="Alone" channel="0" linked="1" mute="0" solo="0" height="70" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1367154">
+				<waveblock start="0">
+					<simpleblockfile filename="e0008465.au" len="262144" min="-0.954848" max="0.832263" rms="0.169245"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0008a98.au" len="262144" min="-0.96647" max="0.909775" rms="0.19915"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00084a5.au" len="262144" min="-0.969498" max="0.921491" rms="0.183125"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e000870a.au" len="262144" min="-0.827844" max="0.756922" rms="0.145268"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0008899.au" len="159289" min="-0.493733" max="0.49065" rms="0.069503"/>
+				</waveblock>
+				<waveblock start="1207865">
+					<simpleblockfile filename="e0009d37.au" len="159289" min="-0.191816" max="0.208415" rms="0.026238"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Alone" channel="1" linked="0" mute="0" solo="0" height="70" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1367154">
+				<waveblock start="0">
+					<simpleblockfile filename="e0008b30.au" len="262144" min="-0.925201" max="0.85766" rms="0.15857"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000888f.au" len="262144" min="-0.934877" max="0.836687" rms="0.190701"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00089d8.au" len="262144" min="-0.868117" max="0.81912" rms="0.165794"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0009dfc.au" len="262144" min="-0.749502" max="0.707606" rms="0.127801"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0009c94.au" len="159289" min="-0.451593" max="0.478276" rms="0.064228"/>
+				</waveblock>
+				<waveblock start="1207865">
+					<simpleblockfile filename="e0009a65.au" len="159289" min="-0.215934" max="0.209936" rms="0.024473"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Oh What Love" channel="0" linked="1" mute="0" solo="0" height="39" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="29.16217937">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1436671">
+				<waveblock start="0">
+					<simpleblockfile filename="e0009431.au" len="262144" min="-0.587492" max="0.552987" rms="0.092809"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0008f06.au" len="262144" min="-0.876232" max="0.905618" rms="0.173667"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0008083.au" len="262144" min="-0.923538" max="0.798053" rms="0.183956"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0008e39.au" len="262144" min="-0.988276" max="1.017442" rms="0.171116"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0008e1b.au" len="194047" min="-1.021836" max="0.983987" rms="0.333386"/>
+				</waveblock>
+				<waveblock start="1242623">
+					<simpleblockfile filename="e0009c43.au" len="194048" min="-0.995997" max="1.022938" rms="0.301869"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Oh What Love" channel="1" linked="0" mute="0" solo="0" height="83" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="29.16217937">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1436671">
+				<waveblock start="0">
+					<simpleblockfile filename="e0009ef3.au" len="262144" min="-0.606008" max="0.572278" rms="0.076025"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0008bba.au" len="262144" min="-0.846369" max="0.753917" rms="0.160206"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0008dda.au" len="262144" min="-0.857699" max="0.766245" rms="0.169778"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0008ec2.au" len="262144" min="-0.972298" max="1.081264" rms="0.163606"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0008976.au" len="194047" min="-1.05447" max="1.026493" rms="0.333853"/>
+				</waveblock>
+				<waveblock start="1242623">
+					<simpleblockfile filename="e0009182.au" len="194048" min="-1.024166" max="1.003363" rms="0.305758"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
